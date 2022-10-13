@@ -1,0 +1,6 @@
+module Pods_stressles_stresslesTests {
+  umbrella header "Pods-stressles-stresslesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

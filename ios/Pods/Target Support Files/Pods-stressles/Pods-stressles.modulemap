@@ -1,0 +1,6 @@
+module Pods_stressles {
+  umbrella header "Pods-stressles-umbrella.h"
+
+  export *
+  module * { export * }
+}

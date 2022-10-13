@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stressles.iml" filepath="$PROJECT_DIR$/.idea/modules/stressles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/stressles.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/stressles.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2082044640/stressles.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/2082044640/stressles.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1280329403/stressles.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1280329403/stressles.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/915132033/stressles.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/915132033/stressles.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1607689116/stressles.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1607689116/stressles.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2092340868/stressles.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2092340868/stressles.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1025055158/stressles.react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1025055158/stressles.react-native-sqlite-storage.iml" />
+    </modules>
+  </component>
+</project>
