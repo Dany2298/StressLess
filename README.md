@@ -1,6 +1,6 @@
 StressLess Mobile Application (Dissertation Project)
 
-StressLess utilizes various tools and programs were used in order, to achieve effective designs and a fully functioning application.The design phase 
+StressLess utilizes various tools and programs that were used in order, to achieve effective designs and a fully functioning application.The design phase 
 consisted of utilizing Figma for the mobile application designs. The implementation phase included applying relevant technologies such as,
 React Native, Node.JS & SQLITE.
 
