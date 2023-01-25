@@ -12,5 +12,7 @@ and connect with others.
 
 
 
+High-Fidelity Designs of the StressLess Mobile Application:
+
 
 ![StressLess (4)](https://user-images.githubusercontent.com/61568687/214672430-9535424d-40c0-4abd-a92a-283ccfb0b45d.jpg)
